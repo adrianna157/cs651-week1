@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3921875" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout-land/activity_main.xml" value="0.318342151675485" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout-land/my_layout.xml" value="0.318342151675485" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout-large/my_layout.xml" value="0.21413934426229508" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout-normal/my_layout.xml" value="0.28396739130434784" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout-xlarge/activity_main.xml" value="0.21413934426229508" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout-xlarge/my_layout.xml" value="0.21413934426229508" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout/activity_main.xml" value="0.21197916666666666" />
+        <entry key="../../../SDVI Dropbox/Adrianna Guevarra/Mac/Desktop/Projects/MainActivity/app/src/main/res/layout/layout.xml" value="0.28396739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
